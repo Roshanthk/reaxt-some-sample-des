@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.ant-switch{
+  background-color: lightgray;
+  min-width: 33px;
+  height: 16px;
+}
+.ant-switch-checked{
+  background-color:#2ecc71;
+}
+
+.ant-switch::after {
+  width: 15px;
+  height: 13px;
+  top: 0.99999997px;
+} 

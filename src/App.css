@@ -20,3 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App-butr{
+  margin-top:5px;
+}
+
+.ant-empty-image{
+  display: none;
+}
+
+.App-back{
+  background-color: #5a018a;
+}
+
+.ant-table-thead
+{
+  background-color: #0052cc;
+  color: #ffffff;
+}
+
